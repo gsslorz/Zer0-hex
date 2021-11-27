@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m @Zer0-hex
+- 👀 I’m interested in Linux C Python and Pwn
+- 🌱 I’m currently learning Pwn
+- 💞️ I’m looking to collaborate
+- 💬 Ask me about Pwn
+- 📫 How to reach me ...  gsslorz@gmail.com
 
 <!--
 **Zer0-hex/Zer0-hex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
