@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Zer0-hex
-- 👀 I’m interested in Linux C Python and Pwn
-- 🌱 I’m currently learning Pwn
-- 💞️ I’m looking to collaborate
-- 💬 Ask me about Pwn
-- 📫 How to reach me ...  gsslorz@gmail.com
+- 👋 I’m Zer0-hex,一个想Pwn的🥬🐓er.
+- 👀 我tm IoT毕业，Web安全没完全入🚪.
+- 🌱 瞎🐓erPwn.
+- 💞️ 沉迷于🕹️无法自拔.
+- 😄 学习残废，不能停.
+- 💬 ✉️从不会回.
+- 📫 gsslorz@gmail.com
 
 <!--
 **Zer0-hex/Zer0-hex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
